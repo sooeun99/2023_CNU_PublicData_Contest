@@ -1,1 +1,1 @@
-# 2023_CNU_PublicData_Contest
+# 2023 CNU 공공데이터 활용 경진대회 
